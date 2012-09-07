@@ -24,7 +24,7 @@ body > #wrap {height: auto; min-height: 100%;}
 
 /* Basic Styling */
 
-body{ font-family: 'PT Sans', sans-serif; }
+body{ font-family: 'PT Sans', sans-serif; -webkit-font-smoothing: antialiased; }
 
 a{ border-bottom: 1px solid rgba(255, 255, 255, 0.35); text-decoration: none !important; -webkit-transition: 0.6s ease-out all; -moz-transition: 0.6s ease-out all; -ms-transition: 0.6s ease-out all; -o-transition: 0.6s ease-out all; transition: 0.6s ease-out all; }
 a:hover{ border-bottom: 1px solid rgba(255, 255, 255, 1); }
