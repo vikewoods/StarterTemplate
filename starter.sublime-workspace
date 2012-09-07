@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"la",
+				"lang-bars"
+			],
+			[
+				"conta",
+				"contact-gps"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ser",
+				"service-links"
+			],
+			[
+				"serv",
+				"service-descr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"flex",
+				"flex-caption"
+			],
+			[
+				"about",
+				"about-full-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 362.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/!-Work/vs-starter/README",
+		"/D/!-Work/vs-starter/index.html",
+		"/D/!-Work/vs-starter/.gitignore",
+		"/D/!-Work/vs-starter/css/bootstrap.css",
+		"/D/!-Work/vs-starter/css/develop.less",
+		"/D/!-Work/vs-starter/css/core.css",
+		"/D/!-Work/vs-starter/js/vendor/j-retina.js",
+		"/D/!-Work/vs-starter/js/vendor/vs-studio-slider.js",
+		"/D/!-Work/vs-starter/js/vendor/jquery-ui.min.js",
+		"/D/!-Work/vs-starter/js/vendor/jquery.easing.min.js",
+		"/D/!-Work/vs-starter/js/vendor/jquery.min.js",
+		"/D/!-Work/alcomp.net.ua/pc-alisa/catalog/model/catalog/product_import.php",
+		"/D/!-Work/alcomp.net.ua/pc-alisa/admin/index.php",
+		"/D/!-Work/alcomp-rebrand/in/minify-2.1.5/minify-2.1.5/min/index.php",
+		"/D/!-Work/alcomp.net.ua/pc-alisa/admin/view/template/common/header.tpl",
+		"/D/!-Work/alcomp.net.ua/pc-alisa/sftp-config.json",
+		"/D/!-Work/violet/sftp-config.json",
+		"/D/!-Work/violet/index.html",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1347029055/alCOMP/etc/nginx/nginx.conf",
+		"/C/Users/Vik/Desktop/slide deck/SlideDeck LITE for jQuery/slidedeck.skin.css",
+		"/D/!-Work/mark.lviv.ua/www/app/views/layouts/application.html.erb",
+		"/C/Users/Vik/Desktop/slide deck/SlideDeck LITE for jQuery/slidedeck.jquery.lite.js",
+		"/D/!-Work/el-www/ExpLog/app/views/portlets/display_sponsors/render.html.erb",
+		"/D/!-Work/el-www/ExpLog/app/models/sponsor.rb",
+		"/D/!-Work/el-www/ExpLog/app/assets/stylesheets/application.css",
+		"/D/!-Work/el-www/ExpLog/Gemfile",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/application.js",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/jquery-old.js",
+		"/D/!-Work/el-www/ExpLog/config/boot.rb",
+		"/D/!-Work/el-www/ExpLog/config/environment.rb",
+		"/D/!-Work/el-www/ExpLog/config/application.rb",
+		"/D/!-Work/el-www/ExpLog/config/environments/production.rb",
+		"/C/Users/Vik/Desktop/index.html",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1346168823/Best Studio Ever/home/girafa.com.ua/www/bcms_3_5/browsercms5/browsercms/gir/app/views/portlets/display_gallery/render.html.erb",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1346169172/Best Studio Ever/home/girafa.com.ua/www/bcms_3_5/browsercms5/browsercms/gir/app/models/gallery.rb",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/jwSlider-commented.js",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/easySlider1.7.js",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1346168761/Best Studio Ever/home/girafa.com.ua/www/bcms_3_5/browsercms5/browsercms/gir/app/portlets/display_gallery_portlet.rb",
+		"/D/!-Work/el-www/ExpLog/app/assets/stylesheets/bootstrap.css",
+		"/D/!-Work/el-www/ExpLog/app/views/layouts/templates/default.html.erb",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/form-validator.js",
+		"/D/!-Work/el-www/ExpLog/app/assets/javascripts/pretty.js",
+		"/D/!-Work/el-www/ExpLog/app/views/layouts/templates/empty.html.erb",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/D/!-Work/el-www/ExpLog/app/views/layouts/parts/_head.html.erb",
+		"/D/!-Work/el-www/ExpLog/app/views/layouts/parts/_foot.html.erb",
+		"/D/!-Work/el-www/ExpLog/sftp-config.json",
+		"/D/!-Work/el-www/ExpressLogick/app/views/layouts/partial/_foot.html.erb",
+		"/D/!-Work/el-www/ExpressLogick/app/views/layouts/partial/_head.html.erb",
+		"/D/!-Work/el-www/ExpressLogick/app/views/layouts/templates/empty.html.erb",
+		"/D/!-Work/el-www/ExpressLogick/app/sftp-config.json",
+		"/D/!-Work/el-www/express/app/views/layouts/partial/_footer.html.erb",
+		"/D/!-Work/el-www/express/app/views/layouts/templates/empty.html.erb",
+		"/D/!-Work/el-www/express/app/views/layouts/partial/_header.html.erb",
+		"/D/!-Work/el-www/express/Gemfile",
+		"/D/!-Work/el-www/express/app/views/layouts/templates/default.html.erb",
+		"/D/!-Work/el-www/express/app/views/layouts/application.html.erb",
+		"/D/!-Work/el/sftp-config.json",
+		"/Dsftp-config.json",
+		"/D/!-Work/alcomp.net.ua/copy-paster/copypastesite.org.ua/CopyPaster/Gemfile",
+		"/D/!-Work/alcomp.net.ua/copy-paster/copypastesite.org.ua/CopyPaster/app/views/posts/index.html.erb",
+		"/D/!-Work/alcomp.net.ua/copy-paster/copypastesite.org.ua/CopyPaster/app/views/layouts/application.html.erb",
+		"/D/!-Work/alcomp.net.ua/copy-paster/copypastesite.org.ua/CopyPaster/sftp-config.json",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1346056863/alCOMP/var/www/public_rails/copypastesite.org.ua/CopyPaster/Gemfile",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1346060080/alCOMP/var/www/public_rails/copypastesite.org.ua/CopyPaster/config/routes.rb",
+		"/D/!-Work/alcomp.net.ua/alcomp/admin/controller/catalog/product.php",
+		"/D/!-Work/alcomp.net.ua/alcomp/sftp-config.json",
+		"/D/!-Work/alcomp.net.ua/alcomp/catalog/controller/product/category.php",
+		"/D/!-Work/alcomp.net.ua/alcomp/admin/model/tool/image.php",
+		"/D/!-Work/alcomp.net.ua/alcomp/catalog/model/tool/image.php",
+		"/D/!-Work/alcomp.net.ua/alcomp/config.php",
+		"/D/!-Work/alcomp.net.ua/alcomp/admin/config.php",
+		"/D/!-Work/visoft-share-portal/vi-soft-new/sftp-config.json",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/partials/_header.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/default.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/about-us.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/news.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/partials/_footer.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/news_item/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/news_page/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/show_news/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/models/service.rb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/models/room.rb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/rooms.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/restaurant.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/service_display_home/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/show_me_rooms/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/portlets/service_display_line_up/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/partials/_temp_restaurant.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/Gemfile.lock",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/Gemfile",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/portlets/show_me_rooms_portlet.rb",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1343775972/Best Studio Ever/opt/nginx/conf/nginx.conf",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1343394470/Best Studio Ever/opt/nginx/conf/nginx.conf",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/assets/stylesheets/style.css",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/home.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/cms/html_blocks/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/layouts/templates/contact_us.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/assets/javascripts/gmaps.js",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/partials/_map.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/cms/services/render.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/cms/services/_form.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/assets/stylesheets/cms/rooms.css.scss",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/assets/javascripts/cms/galleries.js.coffee",
+		"/C/Users/Vik/Downloads/hulk/hulk.py",
+		"/C/users/vik/appdata/local/temp/sublime-sftp-browse-1342792206/alCOMP/tmp/drupal.py",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/cms/html_blocks/_form.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/views/cms/pages/_form.html.erb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/app/helpers/cms/page_helper.rb",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/sftp-config.json",
+		"/D/!-Work/warzawa-hotel.com.ua/warzawa-hotel/README.rdoc",
+		"/D/Browser CMS/browsermedia-browsercms-v3.5.2-1-geef9951/browsermedia-browsercms-eef9951/app/helpers/cms/page_helper.rb",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/Best Studio Ever",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Vik/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getCountTotalByOption",
+			"getCountTotalByOptionAlias",
+			"png",
+			".skin-slidedeck dl.slidedeck > dd",
+			"container-fluid",
+			"Number",
+			";\n",
+			"%>\n",
+			"jpg",
+			"flex-direction-nav",
+			".br",
+			"#wr",
+			".push-crown",
+			">\n",
+			" +",
+			"eve",
+			"hig"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.sftp":
+	{
+		"height": 116.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
