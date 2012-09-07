@@ -1,0 +1,48 @@
+/* ====================================================== */
+/* Developed By Vik Ewoods and Voronin Design Studio 2012 */
+/* ====================================================== */
+/* http://voroninstudio.eu                                */
+/* ====================================================== */
+
+.with-copy{
+  background: #000;
+  color: #fff;
+}
+
+
+
+/* Lets stick up footer */
+
+* { margin:0; padding:0; } 
+html, body, #wrap { height: 100%; }
+body > #wrap {height: auto; min-height: 100%;}
+#main { padding-bottom: 150px; }
+#footer { position: relative;  margin-top: -150px; height: 150px; clear:both;}
+
+
+
+
+/* Basic Styling */
+
+body{ font-family: 'PT Sans', sans-serif; }
+
+a{ border-bottom: 1px solid rgba(255, 255, 255, 0.35); text-decoration: none !important; -webkit-transition: 0.6s ease-out all; -moz-transition: 0.6s ease-out all; -ms-transition: 0.6s ease-out all; -o-transition: 0.6s ease-out all; transition: 0.6s ease-out all; }
+a:hover{ border-bottom: 1px solid rgba(255, 255, 255, 1); }
+
+.proper-links{ border-bottom: 1px solid rgba(0, 0, 0, 0.35); text-decoration: none !important; -webkit-transition: 0.6s ease-out all; -moz-transition: 0.6s ease-out all; -ms-transition: 0.6s ease-out all; -o-transition: 0.6s ease-out all; transition: 0.6s ease-out all; }
+.proper-links:hover{ border-bottom: 1px solid rgba(0, 0, 0, 1); }
+
+.align-c{ text-align: center; }
+.align-l{ text-align: left; }
+.align-r{ text-align: right; }
+
+
+
+/* Header section */
+#header{}
+
+
+
+
+/* Footer section */
+#footer{}
